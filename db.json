@@ -2,10 +2,10 @@
   "recipe": [
     {
       "id": 1,
-      "recipe_name": "チキンソテーのトマトソース掛け",
-      "user_name": "ユーザーネームユーザーネーム",
-      "cooking_time": "30分",
-      "recipe_material": [
+      "recipeName": "チキンソテーのトマトソース掛け",
+      "userName": "ユーザーネームユーザーネーム",
+      "cookingTime": "30分",
+      "recipeMaterial": [
         "鶏胸肉",
         "トマト",
         "レタス",
@@ -14,8 +14,8 @@
         "デミグラスソース",
         "インゲン"
       ],
-      "recipe_quantity": ["2枚", "1個", "50g", "30g", "10g", "20g", "30g"],
-      "recipe_how_to_make": [
+      "recipeQuantity": ["2枚", "1個", "50g", "30g", "10g", "20g", "30g"],
+      "recipeHowToMake": [
         "１番目の作り方１番目の作り方１番目の作り方１番目の作り方１番目の作り方１番目の作り方",
         "２番目の作り方２番目の作り方２番目の作り方２番目の作り方２番目の作り方２番目の作り方",
         "３番目の作り方３番目の作り方３番目の作り方３番目の作り方３番目の作り方３番目の作り方",
@@ -30,9 +30,9 @@
   "vegetable": [
     {
       "id": 1,
-      "material_name": "レタス",
-      "material_image_url": "/public/materialImage/retasu.png"
+      "materialName": "レタス",
+      "materialImageUrl": "/public/materialImage/retasu.png"
     }
   ],
-  "status": 200
+	"status": 200
 }
