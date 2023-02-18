@@ -5,10 +5,18 @@
       "recipeName": "チキンソテーのトマトソース掛け",
       "userName": "ユーザーネームユーザーネーム",
       "cookingTime": "30分",
-      "recipeMaterial":"鶏胸肉",
+      "recipeMaterial": "鶏胸肉",
       "recipeQuantity": "2枚",
-      "recipeHowToMake": 
-        "１番目の作り方１番目の作り方１番目の作り方１番目の作り方１番目の作り方１番目の作り方"
+      "recipeHowToMake": "１番目の作り方１番目の作り方１番目の作り方１番目の作り方１番目の作り方１番目の作り方"
+    },
+    {
+      "id": 1,
+      "recipeName": "チキンソテーのトマトソース掛け",
+      "userName": "ユーザーネームユーザーネーム",
+      "cookingTime": "30分",
+      "recipeMaterial": "鶏胸肉",
+      "recipeQuantity": "2枚",
+      "recipeHowToMake": "１番目の作り方１番目の作り方１番目の作り方１番目の作り方１番目の作り方１番目の作り方"
     }
   ],
   "vegetable": [
@@ -17,6 +25,5 @@
       "materialName": "レタス",
       "materialImageUrl": "/public/materialImage/retasu.png"
     }
-  ],
-	"status": 200
+  ]
 }
