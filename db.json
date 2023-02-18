@@ -1,29 +1,93 @@
 {
-  "recipe": [
+  "recipeData": [
     {
       "id": 1,
-      "recipeName": "チキンソテーのトマトソース掛け",
-      "userName": "ユーザーネームユーザーネーム",
-      "cookingTime": "30分",
-      "recipeMaterial": "鶏胸肉",
-      "recipeQuantity": "2枚",
-      "recipeHowToMake": "１番目の作り方１番目の作り方１番目の作り方１番目の作り方１番目の作り方１番目の作り方"
-    },
-    {
-      "id": 1,
-      "recipeName": "チキンソテーのトマトソース掛け",
-      "userName": "ユーザーネームユーザーネーム",
-      "cookingTime": "30分",
-      "recipeMaterial": "鶏胸肉",
-      "recipeQuantity": "2枚",
-      "recipeHowToMake": "１番目の作り方１番目の作り方１番目の作り方１番目の作り方１番目の作り方１番目の作り方"
+      "recipe_name": "チキンソテーのトマトソース掛け",
+      "user_name": "ユーザーネームユーザーネーム",
+      "cooking_time": "30分",
+      "recipe_material": [
+        "鶏胸肉",
+        "トマト",
+        "レタス",
+        "チーズ",
+        "コーン",
+        "デミグラスソース",
+        "インゲン"
+      ],
+      "recipe_quantity": ["2枚", "1個", "50g", "30g", "10g", "20g", "30g"],
+      "recipe_how_to_make": [
+        "１番目の作り方１番目の作り方１番目の作り方１番目の作り方１番目の作り方１番目の作り方",
+        "２番目の作り方２番目の作り方２番目の作り方２番目の作り方２番目の作り方２番目の作り方",
+        "３番目の作り方３番目の作り方３番目の作り方３番目の作り方３番目の作り方３番目の作り方",
+        "４番目の作り方４番目の作り方４番目の作り方４番目の作り方４番目の作り方４番目の作り方",
+        "５番目の作り方５番目の作り方５番目の作り方５番目の作り方５番目の作り方５番目の作り方",
+        "６番目の作り方６番目の作り方６番目の作り方６番目の作り方６番目の作り方６番目の作り方",
+        "７番目の作り方７番目の作り方７番目の作り方７番目の作り方７番目の作り方７番目の作り方",
+        "８番目の作り方８番目の作り方８番目の作り方８番目の作り方８番目の作り方８番目の作り方"
+      ],
+      "recipe_image_url": "./recipeIMage/chicken.png"
     }
   ],
-  "vegetable": [
+  "materialData": [
     {
       "id": 1,
-      "materialName": "レタス",
-      "materialImageUrl": "/public/materialImage/retasu.png"
+      "material_name": "レタス",
+      "material_image_url": "./materialImage/retasu.png"
+    },
+    {
+      "id": 2,
+      "material_name": "カボチャ",
+      "material_image_url": "./materialImage/pumpkin.png"
+    },
+    {
+      "id": 3,
+      "material_name": "ほうれん草",
+      "material_image_url": "./materialImage/spinach.png"
+    },
+    {
+      "id": 4,
+      "material_name": "白菜",
+      "material_image_url": "./materialImage/chineseCabbage.png"
+    },
+    {
+      "id": 5,
+      "material_name": "にんじん",
+      "material_image_url": "./materialImage/carotto.png"
+    },
+    {
+      "id": 6,
+      "material_name": "トマト",
+      "material_image_url": "./materialImage/tomato.png"
+    },
+    {
+      "id": 7,
+      "material_name": "なす",
+      "material_image_url": "./materialImage/eggplant.png"
+    },
+    {
+      "id": 8,
+      "material_name": "パプリカ",
+      "material_image_url": "./materialImage/paprika.png"
+    },
+    {
+      "id": 9,
+      "material_name": "水菜",
+      "material_image_url": "./materialImage/mizuna.png"
     }
+  ],
+  "genreArr": [
+    "野菜",
+    "果物",
+    "肉類",
+    "魚介",
+    "乾物・海藻類",
+    "加工肉",
+    "ご飯類",
+    "乳製品・卵",
+    "いも類",
+    "麺類",
+    "豆・豆腐類",
+    "パン類",
+    "その他"
   ]
 }
